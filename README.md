@@ -1,2 +1,2 @@
 # e-shop
-A beginner friendly E-commerce backend project using SpringBoot
+A beginner friendly Product-Category catalog backend project using SpringBoot
